@@ -15,3 +15,5 @@
 [Our simple messenger Dmess](https://gitlab.informatics.ru/2019-2020/online/s101/group-04/dmess)
 
 [My current project - Netlab Python API](https://github.com/Sh1Fu/Netlab)
+
+[Laboratory work for children](https://github.com/Sh1Fu/Some-C-Code)
