@@ -17,3 +17,12 @@
 [My current project - Netlab Python API](https://github.com/Sh1Fu/Netlab)
 
 [Laboratory work for children](https://github.com/Sh1Fu/Some-C-Code)
+
+
+## Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=Sh1Fu&show_icons=true&theme=onedark&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" style="width: 47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1Fu&layout=compact&theme=onedark&lang_count=10&exclude_repo=Pintos-Polytech" />
+</a>
