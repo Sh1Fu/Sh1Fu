@@ -7,7 +7,7 @@
 
 * 👋 Hi, I’m @Sh1Fu</li>
 * 👀 I’m interested in Python Dev, Information Security, CTF etc.</li>
-* 🌱 I’m currently learning Network, Forensic</li>
+* 🌱 I’m currently learning Network, Forensic, SDLC, Fuzzing</li>
 * 🔎 At the moment I am actively engaged (working) in the OSINT team
 * 📗 I write code in C, C++, Python 
 
